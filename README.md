@@ -1,7 +1,6 @@
 # 👋 Olá! Me chamo **Yankarlos Dias e Santos**
 
 [![Profile views](https://komarev.com/ghpvc/?username=yanzeradev&color=yellow)](https://komarev.com/ghpvc/?username=yanzeradev&color=yellow)
-[![wakatime](https://wakatime.com/badge/user/371d5ba3-adb3-4a81-8afa-df9fbb91a928.svg)](https://wakatime.com/@371d5ba3-adb3-4a81-8afa-df9fbb91a928)
 
 Sou estudante de Ciência da Computação na UFCAT, com uma paixão intensa por **Visão Computacional** e **Inteligência Artificial**. Meu foco principal é criar soluções inovadoras que utilizem processamento de imagens para resolver problemas do mundo real. Com ampla experiência em Python, aproveito o poder de suas bibliotecas de manipulação de imagens para desenvolvimento de projetos dinâmicos. Além disso, possuo habilidades em várias outras linguagens e tecnologias:
 
