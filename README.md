@@ -4,7 +4,7 @@
 
 Sou estudante de Ciência da Computação na UFCAT, com uma paixão intensa por **Visão Computacional** e **Inteligência Artificial**. Meu foco principal é criar soluções inovadoras que utilizem processamento de imagens para resolver problemas do mundo real. Com ampla experiência em Python, aproveito o poder de suas bibliotecas de manipulação de imagens para desenvolvimento de projetos dinâmicos. Além disso, possuo habilidades em várias outras linguagens e tecnologias:
 
-- **Java, C/C++, HTML, CSS, PHP, MySQL, JavaScript**
+- **Python, Java, C/C++, HTML, CSS, PHP, MySQL, ReactJS, JavaScript**
 
 💻 Estou constantemente aprendendo e experimentando novas tecnologias para expandir meu conjunto de habilidades e elevar a qualidade dos meus projetos.
 
