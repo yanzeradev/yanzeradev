@@ -34,4 +34,4 @@ Sou estudante de Ciência da Computação na UFCAT, com uma paixão intensa por 
 ### Contato
 
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:yanzeratech@outlook.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/yanzeradev)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5564984335934&text=Ol%C3%A1%20Yan%20vi%20seu%20perfil%20no%20github!)
